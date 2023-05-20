@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OgShadoww
 - 👀 I’m interested in web development
-- 🌱 I’m currently working with React
+- 🌱 I’m currently working with Django
 - 📫 How to reach me:
 
 <!---
