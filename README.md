@@ -71,7 +71,7 @@ I am always **pushing my limits** to become the **best version of myself**.
 ---
 
 ## 🤝 Let's Connect!  
-📧 **Email:** [galenzao@gmail.com](mailto:galenzao@gmail.com)
+📧 **Email:** [galenzao@gmail.com](mailto:galenzao@gmail.com)   
 📌 **GitHub:** [github.com/OgShadoww](https://github.com/OgShadoww)  
 📌 **LeetCode:** [leetcode.com/OgShadoww](https://leetcode.com/OgShadoww)  
 📌 **Codeforces:** [codeforces.com/profile/OgShadoww](https://codeforces.com/profile/OgShadoww)  
