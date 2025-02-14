@@ -52,9 +52,9 @@ More projects available in my repositories! Check them out 🔥
 ---
 
 ## 📈 GitHub Stats  
-<p class="align-left">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OgShadoww&show_icons=true&theme=dark&hide=stars,issues" align="left" />
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OgShadoww&theme=dark" align="left" />   
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OgShadoww&show_icons=true&theme=dark&hide=stars,issues" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OgShadoww&theme=dark" />
 </p>
    
 ---
