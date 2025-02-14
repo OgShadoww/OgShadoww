@@ -53,10 +53,10 @@ More projects available in my repositories! Check them out 🔥
 
 ## 📈 GitHub Stats  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OgShadoww&show_icons=true&theme=dark&hide=stars,issues" align="left" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OgShadoww&theme=dark" align="left" />
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OgShadoww&theme=dark" align="left" />   
+   
 ---
-
+   
 ## 📚 Learning & Goals for 2025  
 🎯 **Master advanced algorithms & problem-solving**  
 🎯 **Contribute to open-source projects**  
