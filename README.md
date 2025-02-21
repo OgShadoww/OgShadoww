@@ -52,13 +52,10 @@ A structured **repository of advanced algorithms & data structures** in C++ for 
 More projects available in my repositories! Check them out 🔥
 
 ---
-   
-## 📚 Learning & Goals for 2025  
-🎯 **Master advanced algorithms & problem-solving**  
-🎯 **Contribute to open-source projects**  
-🎯 **Deepen knowledge in AI, ML, and cybersecurity**  
-🎯 **Develop large-scale software projects**  
-🎯 **Compete in global coding competitions**  
+
+## 🚀 Project & Learning Goals for next 3 month:
+   🎯 **Master advanced algorithms & problem-solving**  
+   🎯 **Ful**  
 
 I am always **pushing my limits** to become the **best version of myself**.
 
