@@ -53,9 +53,22 @@ More projects available in my repositories! Check them out 🔥
 
 ---
 
-## 🚀 Project & Learning Goals for next 3 month:
+## 🚀 Project & Learning Goals for next 4 month:
    🎯 **Master advanced algorithms & problem-solving**  
-   🎯 **Ful**  
+   🎯 **Develop C-RPG**  
+   🎯 **3 projects in Assembly**  
+   🎯 **Develop OS from scratch**  
+   🎯 **Develop own programming language**  
+   🎯 **Develop own compiler**  
+   🎯 **Develop own browser & practice network**  
+   🎯 **Create online in past projects**  
+   🎯 **Develop useful parser**  
+   🎯 **Host backend for GreatestPeople**  
+   🎯 **Create Web-RPG**  
+   🎯 **Create couple watched website**  
+   🎯 **Create database site for my girl**  
+   🎯 **Create website with modern design and AI**  
+   🎯 **Create own portfolio**  
 
 I am always **pushing my limits** to become the **best version of myself**.
 
