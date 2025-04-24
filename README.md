@@ -53,22 +53,34 @@ More projects available in my repositories! Check them out 🔥
 
 ---
 
-## 🚀 Project & Learning Goals for next 4 month:
-   🎯 **Master advanced algorithms & problem-solving**  
-   🎯 **Develop C-RPG**  
-   🎯 **3 projects in Assembly**  
-   🎯 **Develop OS from scratch**  
-   🎯 **Develop own programming language**  
-   🎯 **Develop own compiler**  
-   🎯 **Develop own browser & practice network**  
-   🎯 **Create online in past projects**  
-   🎯 **Develop useful parser**  
-   🎯 **Host backend for GreatestPeople**  
-   🎯 **Create Web-RPG**  
-   🎯 **Create couple watched website**  
-   🎯 **Create database site for my girl**  
-   🎯 **Create website with modern design and AI**  
-   🎯 **Create own portfolio**  
+## 🚀 Project & Learning Goals for next 2 month:
+   🎯 ** in Assembly**  (In progress)   
+   🎯 **Develop useful parser**  (Not even started)   
+   🎯 **Create couple watched website**  (Not even started)   
+   🎯 **Create database site with parser**   (In progress)
+   🎯 **Create own portfolio**   (Not even started)   
+   ### Courses:
+      🎯 **Finish Nand2Tetris course**   (In progress)  
+      🎯 **Create basic computer**   (In progress)  
+      🎯 **Finish OSTEP book**   (In progress)   
+      🎯 **Finish CS50 Cybersecurity coruse(Harvard)**   (In progress)   
+      🎯 **Finish Math for CS course(MIT)**   (In progress)   
+      🎯 **Introduction to Algorithms(MIT)**   (In progress)   
+      🎯 **Programming Paradigms (Stanford)**   (In progress)   
+   ### C Programming:
+      🎯 **Game of life C**   (In progress)   
+      🎯 **KeyTrain C**   (In progress)   
+      🎯 **Farm game C**   (In progress)   
+      🎯 **ASCII library C**   (In progress)   
+      🎯 **Standart library C**   (In progress)   
+      🎯 **Text editor C**   (In progress)   
+   
+ 
+## Just ideas and aims for the future:
+   🎯 **Learn Java, Haskel, Ada, Agda, Rust**   
+   🎯 **Learn Verilog / VHDL**   
+
+   
 
 I am always **pushing my limits** to become the **best version of myself**.
 
