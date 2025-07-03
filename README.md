@@ -21,7 +21,7 @@ I have a strong passion for:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -35,8 +35,6 @@ I have a strong passion for:
 ### **Competitive Programming & Low-Level**
 ![Algorithms](https://img.shields.io/badge/-Algorithms-FB8C00?style=flat-square)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-673AB7?style=flat-square)
-![Cryptography](https://img.shields.io/badge/-Cryptography-424242?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow)
 
 ### **Tools & Environment**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -53,28 +51,22 @@ More projects available in my repositories! Check them out 🔥
 
 ---
 
-## 🚀 Project & Learning Goals for next 2 month:
-   🎯 ** in Assembly**  (In progress)   
-   🎯 **Develop useful parser**  (Not even started)   
-   🎯 **Create couple watched website**  (Not even started)   
-   🎯 **Create database site with parser**   (In progress)
-   🎯 **Create own portfolio**   (Not even started)   
-   ### Courses:
-      🎯 **Finish Nand2Tetris course**   (In progress)  
-      🎯 **Create basic computer**   (In progress)  
-      🎯 **Finish OSTEP book**   (In progress)   
-      🎯 **Finish CS50 Cybersecurity coruse(Harvard)**   (In progress)   
-      🎯 **Finish Math for CS course(MIT)**   (In progress)   
-      🎯 **Introduction to Algorithms(MIT)**   (In progress)   
-      🎯 **Programming Paradigms (Stanford)**   (In progress)   
-   ### C Programming:
-      🎯 **Game of life C**   (In progress)   
-      🎯 **KeyTrain C**   (In progress)   
-      🎯 **Farm game C**   (In progress)   
-      🎯 **ASCII library C**   (In progress)   
-      🎯 **Standart library C**   (In progress)   
-      🎯 **Text editor C**   (In progress)   
-   
+## 🚀 Project & Learning Goals:
+   **🎯C Programming:**   
+      - **Game of life C**   
+      - **KeyTrain C**   (In progress)   
+      - **Farm game C**   
+      - **ASCII library C**      
+      - **Text editor C**   (In progress)   
+      - **http server**   
+      - **own git**   
+      - **own reddis**   
+   **🎯Web programming:**:
+      - **Portfolio (React, TS, Redux, Tailwind)**    
+      - **Finance app(React, TS, Redux, Rust, Java Spring Boot, API, Reddis)**   
+      - **App with AI for recepies(HTML, CSS, JS, AI)**   
+      - **Chat App(React, TS, Tailwind, WebSockets, Rust)**   
+      - **Shared watching App(React, TS, Tailwind, WebSockets, Rust, Java)**   
  
 ## Just ideas and aims for the future:
    🎯 **Learn Java, Haskel, Ada, Agda, Rust**   
