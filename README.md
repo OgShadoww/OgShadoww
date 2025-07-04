@@ -45,7 +45,7 @@ I have a strong passion for:
 
 ## 🔥 Notable Projects  
 🚀 **[DSA (Data Structures & Algorithms)](https://github.com/OgShadoww/DSA)**  
-A structured **repository of advanced algorithms & data structures** in C++ for **competitive programming & technical interviews**.
+A structured **repository of advanced algorithms & data structures** in C for **competitive programming & technical interviews**.
 
 More projects available in my repositories! Check them out 🔥
 
