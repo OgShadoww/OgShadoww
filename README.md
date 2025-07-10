@@ -11,7 +11,7 @@ I have a strong passion for:
 - **🔭 Science & Mathematics** – I love **physics, chemistry, and advanced math**. Understanding the universe excites me.  
 - **💻 Computer Science** – Algorithms, data structures, low-level systems, and **high-performance computing**.  
 - **🔧 Web Development** – Specialized in **modern front-end & back-end** with strong **API design**.  
-- **🎯 Competitive Programming** – Placed 🏅 **3 place in the 3 stage All-Ukrainian Olympiad in Informatics**.  
+- **🎯 Competitive Programming** – Twice placed 🏅 **3 place in the 3 stage All-Ukrainian Olympiad in Informatics**.  
 
 ---
 
