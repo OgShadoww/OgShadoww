@@ -53,14 +53,14 @@ More projects available in my repositories! Check them out 🔥
 
 ## 🚀 Project & Learning Goals:   
    **🎯C Programming:**   
-      - **Game of life C**   
-      - **KeyTrain C**   (In progress)   
-      - **Farm game C**   
-      - **ASCII library C**      
-      - **Text editor C**   (Deadline before July 15)    
-      - **http server**   
-      - **own git**   
-      - **own reddis**   
+      - **Game of life**   
+      - **KeyTrain**   (In progress)   
+      - **Farm game**   
+      - **ASCII library**      
+      - **Text editor**   (Deadline before July 15)    
+      - **Http server**   
+      - **Own git**   
+      - **Own reddis**   
    **🎯Web programming:**:   
       - **Portfolio (React, TS, Redux, Tailwind)**    
       - **Finance app(React, TS, Redux, Rust, Java Spring Boot, API, Reddis)**   
