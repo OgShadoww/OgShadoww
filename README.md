@@ -57,7 +57,7 @@ More projects available in my repositories! Check them out 🔥
       - **KeyTrain C**   (In progress)   
       - **Farm game C**   
       - **ASCII library C**      
-      - **Text editor C**   (In progress)   
+      - **Text editor C**   (Deadline before July 15)    
       - **http server**   
       - **own git**   
       - **own reddis**   
