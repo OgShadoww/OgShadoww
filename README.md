@@ -52,7 +52,7 @@ More projects available in my repositories! Check them out 🔥
 ---
 
 ## 🚀 Project & Learning Goals:   
-   **🎯C Programming:**   
+  **🎯C Programming:**   
       - **Game of life**   
       - **KeyTrain**   (In progress)   
       - **Farm game**   
@@ -61,12 +61,14 @@ More projects available in my repositories! Check them out 🔥
       - **Http server**   
       - **Own git**   
       - **Own reddis**   
-   **🎯Web programming:**:   
+  **🎯Web programming:**:   
       - **Portfolio (React, TS, Redux, Tailwind)**    
       - **Finance app(React, TS, Redux, Rust, Java Spring Boot, API, Reddis)**   
       - **App with AI for recepies(HTML, CSS, JS, AI)**    
       - **Chat App(React, TS, Tailwind, WebSockets, Rust)**   
       - **Shared watching App(React, TS, Tailwind, WebSockets, Rust, Java)**   
+  **🎯Rust Programming:**   
+      - **Spotify TUI**   
  
 ## Just ideas and aims for the future:
    🎯 **Learn Java, Haskel, Ada, Agda, Rust**   
