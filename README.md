@@ -57,10 +57,14 @@ More projects available in my repositories! Check them out 🔥
       - **KeyTrain**   (In progress)   
       - **Farm game**   
       - **ASCII library**      
-      - **Text editor**   (Deadline before July 15)    
+      - **Text editor**      
       - **Http server**   
       - **Own git**   
       - **Own reddis**   
+      - **Timer**   (In progress)
+      - **XP app**   (Done)     
+      - **libc library (C + ASM)**    
+      - **Shell**    
          
   **🎯Web programming:**:   
       - **Portfolio (React, TS, Redux, Tailwind)**    
