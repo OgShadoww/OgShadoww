@@ -44,8 +44,8 @@ I have a strong passion for:
 ---
 
 ## 🔥 Notable Projects  
-🚀 **[DSA (Data Structures & Algorithms)](https://github.com/OgShadoww/DSA)**  
-A structured **repository of advanced algorithms & data structures** in C for **competitive programming & technical interviews**.
+🚀 **[RSA Algorithm (Cryptography)](https://github.com/OgShadoww/RSA)**  
+A toy **repository of rsa algorithm** in C for **understanding the math behind that**.
 
 More projects available in my repositories! Check them out 🔥
 
