@@ -91,7 +91,7 @@ I am always **pushing my limits** to become the **best version of myself**.
 📌 **GitHub:** [github.com/OgShadoww](https://github.com/OgShadoww)  
 📌 **LeetCode:** [leetcode.com/OgShadoww](https://leetcode.com/OgShadoww)  
 📌 **Codeforces:** [codeforces.com/profile/OgShadoww](https://codeforces.com/profile/OgShadoww)  
-📌 **LinkedIn:** [linkedin.com/in/OgShadoww](www.linkedin.com/in/orest-halenza-7ab476255)  
+📌 **LinkedIn:** [linkedin.com/in/Orest](https://www.linkedin.com/in/orest-halenza-7ab476255)  
 
 🚀 **I’m open to collaborations, discussions, and building cutting-edge projects. Let's innovate together!** 🔥  
 
