@@ -90,7 +90,7 @@ I am always **pushing my limits** to become the **best version of myself**.
 📧 **Email:** [galenzao@gmail.com](mailto:galenzao@gmail.com)   
 📌 **GitHub:** [github.com/OgShadoww](https://github.com/OgShadoww)  
 📌 **LeetCode:** [leetcode.com/OgShadoww](https://leetcode.com/OgShadoww)  
-📌 **Codeforces:** [codeforces.com/profile/OgShadoww](https://codeforces.com/profile/OgShadoww)  
+📌 **Codeforces:** [codeforces.com/profile/OgShadoww](https://codeforces.com/profile/OG_shadoww)  
 📌 **LinkedIn:** [linkedin.com/in/Orest](https://www.linkedin.com/in/orest-halenza-7ab476255)  
 
 🚀 **I’m open to collaborations, discussions, and building cutting-edge projects. Let's innovate together!** 🔥  
