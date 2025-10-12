@@ -45,7 +45,7 @@ I have a strong passion for:
 
 ## 🔥 Notable Projects  
 🚀 **[RSA Algorithm (Cryptography)](https://github.com/OgShadoww/RSA)**  
-A toy **repository of rsa algorithm** in C for **understanding the math behind that**.
+A toy **repository of rsa algorithm** in C for **understanding the math behind that**.    
 🚀 **[Atom - Text editor](https://github.com/OgShadoww/Atom)**  
 A **terminal text editor** in pure C without ncurses with **vim motions**   
 
