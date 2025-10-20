@@ -78,6 +78,7 @@ More projects available in my repositories! Check them out 🔥
          
   **🎯Rust Programming:**   
       - **Spotify TUI**   
+      - **Essay cheker**    (Rust, Shell, API, AI)    
  
 ## Just ideas and aims for the future:
    🎯 **Learn Java, Haskel, Ada, Agda, Rust**   
