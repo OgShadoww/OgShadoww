@@ -55,37 +55,6 @@ More projects available in my repositories! Check them out 🔥
 
 ---
 
-## 🚀 Project & Learning Goals:   
-  **🎯C Programming:**   
-      - **Game of life**   
-      - **KeyTrain**   (In progress)   
-      - **Farm game**   
-      - **ASCII library**      
-      - **Text editor**      
-      - **Http server**   
-      - **Own git**   
-      - **Own reddis**   
-      - **Timer**   (In progress)
-      - **XP app**   (Done)     
-      - **libc library (C + ASM)**    
-      - **Shell**    
-         
-  **🎯Web programming:**:   
-      - **Portfolio (React, TS, Redux, Tailwind)**    
-      - **Finance app(React, TS, Redux, Rust, Java Spring Boot, API, Reddis)**   
-      - **App with AI for recepies(HTML, CSS, JS, AI)**    
-      - **Chat App(React, TS, Tailwind, WebSockets, Rust)**   
-      - **Shared watching App(React, TS, Tailwind, WebSockets, Rust, Java)**   
-         
-  **🎯Rust Programming:**   
-      - **Spotify TUI**   
-      - **Essay cheker**    (Rust, Shell, API, AI)    
- 
-## Just ideas and aims for the future:
-   🎯 **Learn Java, Haskel, Ada, Agda, Rust**   
-   🎯 **Learn Verilog / VHDL**   
-
-   
 
 I am always **pushing my limits** to become the **best version of myself**.
 
