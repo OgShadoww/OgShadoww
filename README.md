@@ -4,9 +4,9 @@
 Hey there! I'm **OgShadoww**, a **scientific thinker, software developer, and competitive programmer** who loves **solving hard problems** and **pushing the limits** of technology.
 
 ### 💡 Focus:   
-🧠 Low-Level Programming — C, Assembly, Bash, and Rust. I enjoy creating shells, libraries, and minimal operating systems.   
-⚙️ Computer Science Core — Algorithms, data structures, compilers, and architecture.   
-🧩 Competitive Programming — 🏅 Twice placed 3rd in the All-Ukrainian Olympiad in Informatics.   
+- **🧠 Low-Level Programming — C, Assembly, Bash, and Rust. I enjoy creating shells, libraries, and minimal operating systems.**   
+- **⚙️ Computer Science Core — Algorithms, data structures, compilers, and architecture.**   
+- **🧩 Competitive Programming — 🏅 Twice placed 3rd in the All-Ukrainian Olympiad in Informatics.**   
 
 ---
 
