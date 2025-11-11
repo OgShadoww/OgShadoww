@@ -51,11 +51,6 @@ More projects available in my repositories! Check them out 🔥
 
 ---
 
-
-I am always **pushing my limits** to become the **best version of myself**.
-
----
-
 ## 🤝 Let's Connect!  
 📧 **Email:** [galenzao@gmail.com](mailto:galenzao@gmail.com)   
 📌 **GitHub:** [github.com/OgShadoww](https://github.com/OgShadoww)  
@@ -64,5 +59,3 @@ I am always **pushing my limits** to become the **best version of myself**.
 📌 **LinkedIn:** [linkedin.com/in/Orest](https://www.linkedin.com/in/orest-halenza-7ab476255)  
 
 🚀 **I’m open to collaborations, discussions, and building cutting-edge projects. Let's innovate together!** 🔥  
-
----
