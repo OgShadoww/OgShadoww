@@ -1,9 +1,5 @@
 # 👋 Welcome to My GitHub Profile!  
 
-[![GitHub Followers](https://img.shields.io/github/followers/OgShadoww?style=social)](https://github.com/OgShadoww)
-[![GitHub Stars](https://img.shields.io/github/stars/OgShadoww?style=social)](https://github.com/OgShadoww)
-[![Profile Views](https://komarev.com/ghpvc/?username=OgShadoww&color=blue)](https://github.com/OgShadoww)
-
 ## 🚀 About Me  
 Hey there! I'm **OgShadoww**, a **scientific thinker, software developer, and competitive programmer** who loves **solving hard problems** and **pushing the limits** of technology.
 
