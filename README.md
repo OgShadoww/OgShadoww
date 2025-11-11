@@ -3,11 +3,10 @@
 ## 🚀 About Me  
 Hey there! I'm **OgShadoww**, a **scientific thinker, software developer, and competitive programmer** who loves **solving hard problems** and **pushing the limits** of technology.
 
-I have a strong passion for:
-- **🔭 Science & Mathematics** – I love **physics, chemistry, and further math**. Understanding the universe excites me.  
-- **💻 Computer Science** – Algorithms, data structures, low-level systems, and **high-performance computing**.  
-- **🔧 Web Development** – Specialized in **modern front-end & back-end** with strong **API design**.  
-- **🎯 Competitive Programming** – Twice placed 🏅 **3 place in the 3 stage All-Ukrainian Olympiad in Informatics**.  
+### 💡 Focus:   
+🧠 Low-Level Programming — C, Assembly, Bash, and Rust. I enjoy creating shells, libraries, and minimal operating systems.   
+⚙️ Computer Science Core — Algorithms, data structures, compilers, and architecture.   
+🧩 Competitive Programming — 🏅 Twice placed 3rd in the All-Ukrainian Olympiad in Informatics.   
 
 ---
 
