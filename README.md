@@ -45,7 +45,7 @@ Hey there! I'm **OgShadoww**, a **scientific thinker, software developer, and co
 🚀 **[RSA Algorithm (Cryptography)](https://github.com/OgShadoww/RSA)**  
 A toy **repository of rsa algorithm** in C for **understanding the math behind that**.    
 🚀 **[Atom - Text editor](https://github.com/OgShadoww/Atom)**  
-A **terminal text editor** in pure C without ncurses with **vim motions** 
+A **terminal text editor** in pure C without ncurses with **vim motions**    
 🚀 **[Convey - File transfering uttil](https://github.com/OgShadoww/Convey)**  
 A **terminal file transfering uttil** in pure C, with OpenSLL, SQLite3, Custop binary protocol
 
