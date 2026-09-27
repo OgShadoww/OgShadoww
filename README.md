@@ -1,16 +1,16 @@
 # 👋 Welcome to My GitHub Profile!  
 
-## 🚀 About Me  
+## About Me  
 Hey there! I'm **OgShadoww**, a **scientific thinker, software developer, and competitive programmer** who loves **solving hard problems** and **pushing the limits** of technology.
 
-### 💡 Focus:   
-- **🧠 Low-Level Programming — C, Assembly, Bash, and Go. I enjoy creating shells, libraries, and minimal operating systems.**   
-- **⚙️ Computer Science Core — Algorithms, data structures, compilers, and architecture.**   
-- **🧩 Competitive Programming — 🏅 Twice placed 3rd in the All-Ukrainian Olympiad in Informatics.**   
+### Focus:   
+- **Low-Level Programming — C, Assembly, Bash, and Go. I enjoy creating shells, libraries, and minimal operating systems.**   
+- **Computer Science Core — Algorithms, data structures, compilers, and architecture.**   
+- **Competitive Programming - Twice placed 3rd in the All-Ukrainian Olympiad in Informatics.**   
 
 ---
 
-## 🛠️ Technologies & Tools  
+## Technologies & Tools  
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
@@ -41,23 +41,19 @@ Hey there! I'm **OgShadoww**, a **scientific thinker, software developer, and co
 
 ---
 
-## 🔥 Notable Projects  
-🚀 **[RSA Algorithm (Cryptography)](https://github.com/OgShadoww/RSA)**  
+## Notable Projects  
+**[RSA Algorithm (Cryptography)](https://github.com/OgShadoww/RSA)**  
 A toy **repository of rsa algorithm** in C for **understanding the math behind that**.    
-🚀 **[Atom - Text editor](https://github.com/OgShadoww/Atom)**  
+**[Atom - Text editor](https://github.com/OgShadoww/Atom)**  
 A **terminal text editor** in pure C without ncurses with **vim motions**    
-🚀 **[Convey - File transfering uttil](https://github.com/OgShadoww/Convey)**  
+**[Convey - File transfering uttil](https://github.com/OgShadoww/Convey)**  
 A **terminal file transfering uttil** in pure C, with OpenSLL, SQLite3, Custop binary protocol
-
-More projects available in my repositories! Check them out 🔥
 
 ---
 
-## 🤝 Let's Connect!  
+## Let's Connect!  
 📧 **Email:** [galenzao@gmail.com](mailto:galenzao@gmail.com)   
 📌 **GitHub:** [github.com/OgShadoww](https://github.com/OgShadoww)  
 📌 **LeetCode:** [leetcode.com/OgShadoww](https://leetcode.com/OgShadoww)  
 📌 **Codeforces:** [codeforces.com/profile/OgShadoww](https://codeforces.com/profile/OG_shadoww)  
 📌 **LinkedIn:** [linkedin.com/in/Orest](https://www.linkedin.com/in/orest-halenza-7ab476255)  
-
-🚀 **I’m open to collaborations, discussions, and building cutting-edge projects. Let's innovate together!** 🔥  
